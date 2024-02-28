@@ -1,0 +1,2 @@
+# plis
+hanya untuk latihan
